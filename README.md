@@ -21,10 +21,16 @@ Software is provided "as-is". User assumes full
 responsibility for any system changes. The author 
 is not responsible for any system issues. Although
 the program was made to enhance performance, for 
-both gamers, as our PC's, not all programs are
+both gamers, and their PC's, not all programs are
 always perfect. This tool is built with good
 intentions to improve the system's health,
 not cause harm.
 
-Thank You for choosing my tools.
+This is my first project on GitHub. In free time, I will update, and work on it consistently, to
+deliver a professional, real performace boost, PC optimization tool. I will upload new releases, with 
+new features coming with them. If you’ve got any feedback, suggestions for new features,
+or just know a better way to optimize, feel free to open an issue, in the Issues section.
+I appreciate every bit of feedback because I want "Velocity" to be a tool that actually helps gamers out.
+
+Thanks for choosing my tools.
 -salvador9tech
