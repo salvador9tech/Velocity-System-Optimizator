@@ -20,7 +20,7 @@ Software is provided "as-is". User assumes full
 responsibility for any system changes. The author 
 is not responsible for any system issues. Although
 the program was made to enhance performance, for 
-both gamers, as our PC's, not all programs, are
+both gamers, as our PC's, not all programs are
 always perfect. This tool is built with good
 intentions to improve the system's health,
 not cause harm.
