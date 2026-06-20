@@ -1,4 +1,4 @@
-Welcome to System Optimizer Tool, version 1.0.
+Welcome to Velocity System Optimizator v1.0.0
 
 Description:
 This tool is designed for quick system optimization 
@@ -10,9 +10,9 @@ Current Features:
 -Enable High Performance: Switches the power plan to "High Performance." Prevents the CPU from throttling, ensuring maximum power for your hardware. (Use at own responsibility)
 
 Usage:
-1. Ensure 'SystemOptimizer.vbs' and 'MainProcess.bat' 
+1. Ensure 'VelocityOptimizator.vbs' and 'MainProcess.bat' 
    are in the same folder.
-2. Launch the tool using 'SystemOptimizer.vbs' file.
+2. Launch the tool using 'VelocityOptimizator.vbs' file.
 3. Select option(s) from the menu in the console.
 
 Disclaimer:
