@@ -1,4 +1,4 @@
-![Velocity Logo](logo.png)
+![Velocity Logo](logo1.png)
 Welcome to Velocity System Optimizator v1.0.0
 
 Description:
