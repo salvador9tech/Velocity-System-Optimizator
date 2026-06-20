@@ -11,10 +11,12 @@ Current Features:
 -Enable High Performance: Switches the power plan to "High Performance." Prevents the CPU from throttling, ensuring maximum power for your hardware. (Use at own responsibility)
 
 Usage:
-1. Ensure 'VelocityOptimizator.vbs' and 'MainProcess.bat' 
+1. Get the latest version from the Releases tab.
+2. Unpack the .zip folder in desired location.
+3. Ensure 'VelocityOptimizator.vbs' and 'MainProcess.bat' 
    are in the same folder.
-2. Launch the tool using 'VelocityOptimizator.vbs' file.
-3. Select option(s) from the menu in the console.
+4. Launch the tool using 'VelocityOptimizator.vbs' file.
+5. Select option(s) from the menu in the console.
 
 Disclaimer:
 Software is provided "as-is". User assumes full 
