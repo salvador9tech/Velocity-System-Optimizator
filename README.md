@@ -29,7 +29,8 @@ the program was made to enhance performance, for
 both gamers, and their PC's, not all programs are
 always perfect. This tool is built with good
 intentions to improve the system's health,
-not cause harm.
+not cause harm. More information in Licence Tab, 
+or in the "LICENCE.txt" file.
 
 This is my first project on GitHub. In free time, I will update, and work on it consistently, to
 deliver a professional, real performace boost, PC optimization tool. I will upload new releases, with 
