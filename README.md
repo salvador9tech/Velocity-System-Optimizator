@@ -1,14 +1,17 @@
 ![Velocity Logo](mainlogo.png)
-Welcome to Velocity System Optimizator v1.0.0
+Welcome to Velocity System Optimizer
 
 Description:
 This tool is designed for quick system optimization 
-on Windows.
+on Windows 10/11.
 Current Features:
 -Flush DNS: Clears your system's DNS cache. Can help resolve connection issues and prevents routing to outdated server addresses.
 -End Background Processes: Performs a best-effort termination of specific, known resource-heavy background applications. Results may vary depending on user's installed apps.
 -Clear Temporary Files: Deletes junk files from the system temp folder. Reclaims disk space and reduces system clutter.
 -Enable High Performance: Switches the power plan to "High Performance." Prevents the CPU from throttling, ensuring maximum power for your hardware. (Use at own responsibility)
+-Disable Telemetry Service: Stops the Windows "DiagTrack" service from collecting and sending diagnostics or usage statistics. Reduces background network activity and improves privacy.
+-Disable SysMain Service: Disables the service previously known as Superfetch. Stops Windows from aggressively preloading apps into memory, which prevents high disk and CPU usage on many systems.
+-Disable Print Spooler: Turns off the background printer system. Highly recommended if you do not own or use a printer, as it frees up system memory and eliminates a known source of background bloat.
 
 Usage:
 1. Get the latest version from the Releases tab.
@@ -36,3 +39,16 @@ I appreciate every bit of feedback because I want "Velocity" to be a tool that a
 
 Thanks for choosing my tools.
 -salvador9tech
+
+## Changelog
+
+### v1.1.0 (Latest)
+- Added **Disable Telemetry Service** feature.
+- Added **Disable SysMain Service** feature.
+- Added **Disable Print Spooler** feature.
+- Added dynamic menu system that adapts to Administrator privileges.
+- Created a .bat file **Velocity Revert Tool** to safely undo changes.
+- Switched development environment to Visual Studio Code.
+
+### v1.0.0
+- Initial release with Flush DNS, Terminate Background, Clear Temp Files, and High Performance power plan.
